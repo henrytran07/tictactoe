@@ -8,3 +8,4 @@ C++ implementation of the Tic Tac Toe game
 4. Follow the instruction on the terminal
 
 ## Testing
+1. Add more information
